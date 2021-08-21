@@ -3,3 +3,6 @@ hello! GitHub
 I am studing how to use 'git'.
 I created a new branch named as 'branch_a'. and I am working on it!
 
+branch_aの作業が終了しました
+
+
